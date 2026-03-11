@@ -1,0 +1,82 @@
+{
+  "backLink": "Retour à toutes les offres",
+  "hero": {
+    "title": "Ingénieur senior - Growth Marketing",
+    "subtitle": "Rejoins notre équipe Marketing pour aider Buffer à toucher des millions de créateurs dans le monde et construire les systèmes qui alimentent notre croissance."
+  },
+  "details": {
+    "heading": "Détails du poste",
+    "locationLabel": "Lieu",
+    "location": "Télétravail",
+    "employmentTypeLabel": "Type de contrat",
+    "employmentType": "Temps plein",
+    "departmentLabel": "Département",
+    "department": "Ingénierie",
+    "compensationLabel": "Rémunération",
+    "compensation": "156,5 k€ – 202,3 k€ • Actions proposées",
+    "compensationIntro": "Nous visons pour Buffer une approche du salaire, des actions et des avantages qui soit :",
+    "bullet1": "Transparente",
+    "bullet2": "Équitable",
+    "bullet3": "Simple",
+    "bullet4": "Généreuse",
+    "readMore": "En savoir plus sur notre philosophie de rémunération."
+  },
+  "aboutBuffer": {
+    "heading": "À propos de Buffer",
+    "body": "Nous créons des logiciels de réseaux sociaux et de construction de marque pour les PME, les créateurs et les particuliers. Notre mission est de fournir les outils essentiels pour aider les petites entreprises à démarrer et à grandir. Grâce à un service client exceptionnel et à des contenus inspirants, nous aidons nos clients à croire qu'ils peuvent réussir et faire le bien. Buffer est une équipe 100 % distribuée, et nous avons toujours voulu faire les choses un peu différemment. Dès le début, nous nous sommes concentrés sur la création d'un des lieux de travail les plus uniques et épanouissants en repensant nombre de pratiques traditionnelles. Nous privilégions aussi la transparence — tu peux tout lire sur nos métriques, succès et échecs sur notre Tableau de bord transparent. Nous sommes unis par les valeurs de Buffer, et nous recrutons et travaillons partout dans le monde. Nous nous efforçons de créer un environnement de travail diversifié et inclusif. Note que nous nous retrouvons en présentiel une ou deux fois par an, et que ces moments sont fortement encouragés pour renforcer les liens au sein de notre petite équipe."
+  },
+  "aboutRole": {
+    "heading": "À propos du poste",
+    "body": "Nous recherchons un ingénieur frontend senior pour rejoindre notre équipe Growth Marketing. C'est un poste technique concret : construire les expériences web et les systèmes qui font grandir Buffer. Le travail couvre la création de fonctionnalités et de pages sur buffer.com — outils interactifs, benchmarks, systèmes de parrainage, parcours de conversion — ainsi que la mise en œuvre technique : intégrations avec les outils marketing, analytics et tracking, SEO, et la logique backend qui alimente nos fonctionnalités marketing. Nous avons besoin de quelqu'un à l'aise sur tout le périmètre frontend : solide en React et développement web moderne, mais aussi capable de plonger dans la logique backend, de connecter des APIs tierces, de débugger les pipelines de tracking et d'apprendre ce qu'il ne connaît pas. Tu collaboreras étroitement avec le Directeur Marketing, l'ingénieur design senior et le designer senior. L'équipe privilégie le rythme et l'itération — nous livrons vite, apprenons du terrain et nous améliorons en continu. Nous accordons aussi de l'importance au craft — soigner les détails UX et maintenir les standards tout en gardant le cap."
+  },
+  "whatYoullDo": {
+    "heading": "Ce que tu feras",
+    "item1": "Piloter des projets d'ingénierie growth : mise en place d'un framework de localisation pour les audiences internationales, logique de programme de parrainage et d'attribution, refonte de notre implémentation tracking pour plus de précision et de fiabilité. Tu portes les projets de la conception au lancement.",
+    "item2": "Construire des fonctionnalités sur le site marketing de Buffer — livrer des landing pages, outils interactifs et parcours de conversion qui aident les gens à découvrir et essayer Buffer. Créer des benchmarks, calculateurs et contenus utiles qui forment les utilisateurs et renforcent l'engagement.",
+    "item3": "Façonner les capacités de la plateforme marketing en construisant des systèmes et frameworks qui accélèrent l'équipe. Mettre en place l'infrastructure A/B testing, développer la génération programmatique de pages pour le SEO/AEO, implémenter des patterns de gestion de contenu et des composants réutilisables.",
+    "item4": "Piloter l'expérimentation et l'optimisation — mettre en place des A/B tests, optimiser les tunnels de conversion et aider l'équipe à apprendre plus vite via le code. Équilibrer rapidité et qualité.",
+    "item5": "Améliorer les fondations en maintenant les intégrations avec notre stack marketing (Segment, GTM, Mixpanel, BigQuery), en mettant à jour les dépendances, en optimisant les perfs et en garantissant l'accessibilité. Tu participeras aussi à la rotation d'astreinte.",
+    "item6": "Contribuer à la culture technique en pairant avec d'autres ingénieurs, en faisant des revues de code, en partageant tes connaissances sur les systèmes growth et les patterns d'ingénierie marketing, et en faisant monter en niveau notre approche du frontend chez Buffer."
+  },
+  "skills": {
+    "heading": "Compétences et expérience utiles",
+    "item1": "Solides bases frontend — bonne expérience en React, TypeScript et développement web moderne. Notre site tourne sur Next.js, mais nous valorisons l'adaptabilité et la curiosité plus qu'une stack précise.",
+    "item2": "À l'aise pour travailler full-stack quand il le faut — logique backend, routes API, récupération de données depuis des systèmes externes, connexion d'intégrations tierces.",
+    "item3": "Expérience avec des équipes marketing ou growth : SEO, analytics, A/B tests, optimisation de la conversion. Tu as probablement construit des systèmes de parrainage, des pages programmatiques ou des tunnels de conversion.",
+    "item4": "À l'aise dans l'ambiguïté et la pensée système — tu apportes de la clarté et poses les bonnes questions. Tu vois le système dans son ensemble et construis des choses qui scale de façon holistique.",
+    "item5": "Un intérêt personnel pour la création de contenu — newsletter, audience sur les réseaux, ou partage régulier de ton travail en ligne. Tu as utilisé Buffer et tu te soucies de l'expérience de planification et de publication.",
+    "item6": "Tu équilibres craft et rythme — tu livres vite et apprends du terrain, tout en veillant à la qualité, aux détails UX, à l'accessibilité et aux perfs.",
+    "item7": "Tu t'épanouis en remote et en asynchrone — tu communiques clairement, soutiens tes collègues et n'attends pas la permission pour avancer.",
+    "item8": "À l'aise avec les outils IA et tu les utilises pour gagner en levier. Bonus si tu as intégré l'IA dans des fonctionnalités marketing orientées utilisateur à grande échelle.",
+    "item9": "Tu fais probablement ça depuis au moins 5 ans, mais la profondeur d'expérience et l'impact comptent plus qu'un nombre d'années précis."
+  },
+  "techStack": {
+    "heading": "Notre stack technique",
+    "item1": "Next.js v15+ avec React et TypeScript pour buffer.com (actuellement Pages router, migration vers App router prévue). Middleware Express pour une partie du routing (migration vers le middleware Next.js prévue).",
+    "item2": "Styling avec CSS Modules et Motion pour les animations ; Radix UI et Base UI pour les composants accessibles ; Recharts pour les visualisations de données.",
+    "item3": "Stack marketing : Segment, Google Tag Manager, Mixpanel et BigQuery pour le tracking et l'analytics.",
+    "item4": "Contenu et données depuis Ghost CMS (blog), Redash, Notion, Google Sheets et diverses APIs externes."
+  },
+  "interview": {
+    "heading": "Processus de recrutement",
+    "step1": "Candidature — En envoyant ta candidature et ton CV, dis-nous pourquoi tu veux rejoindre Buffer. Nous recommandons de postuler à un seul poste ; si nous te voyons mieux ailleurs, nous redirigerons ta candidature en interne.",
+    "step2": "Entretien métier — Échange avec le responsable du recrutement et un·e ingénieur·e pour comprendre ce que signifie travailler chez Buffer.",
+    "step3": "Exercice de revue de code — Nous t'enverrons une mission asynchrone : review d'une pull request.",
+    "step4": "Entretiens techniques — Échanges avec des ingénieurs sur ton expérience technique. Pour les rôles seniors, un entretien supplémentaire sur le leadership et le travail en équipe.",
+    "step5": "Rencontre avec la CEO — Approfondir la stratégie, les valeurs et les processus de travail de Buffer.",
+    "step6": "Période de collaboration — Travailler avec nous sur un vrai projet pendant 2 jours (entièrement rémunérés). Découvrir concrètement le travail en équipe.",
+    "step7": "Offre — Nous concluons par une offre et la discussion des derniers détails."
+  },
+  "perksHeading": "Avantages et avantages",
+  "perks": {
+    "item1": "Salaire compétitif",
+    "item2": "Télétravail",
+    "item3": "Semaine de 4 jours",
+    "item4": "Assurance santé",
+    "item5": "Équipement bureau à domicile",
+    "item6": "Congés flexibles",
+    "item7": "Plan d'épargne",
+    "item8": "Participation aux bénéfices",
+    "item9": "Congé familial"
+  }
+}

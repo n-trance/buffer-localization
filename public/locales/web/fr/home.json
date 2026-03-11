@@ -1,0 +1,20 @@
+{
+  "intro": {
+    "title": "Pour commencer, modifiez le fichier page.tsx.",
+    "description": "Vous cherchez un point de départ ou plus d'instructions ? Rendez-vous sur {{templates}} ou au centre {{learning}}.",
+    "descriptionBefore": "Vous cherchez un point de départ ou plus d'instructions ? Rendez-vous sur ",
+    "descriptionMiddle": " ou au centre ",
+    "descriptionAfter": ".",
+    "templates": "Templates",
+    "learning": "Apprentissage",
+    "center": "centre"
+  },
+  "ctas": {
+    "deploy": "Déployer maintenant",
+    "documentation": "Documentation"
+  },
+  "images": {
+    "nextLogo": "Logo Next.js",
+    "vercelLogo": "Logotype Vercel"
+  }
+}

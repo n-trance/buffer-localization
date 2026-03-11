@@ -1,0 +1,92 @@
+{
+  "nav": { "cta": "Offene Stellen" },
+  "hero": {
+    "title": "Begleite uns auf der Reise",
+    "subtitle": "Bei uns zu arbeiten ist mehr als nur ein Job. Willst du mit dabei sein?",
+    "cta": "Offene Stellen ansehen"
+  },
+  "about": {
+    "heading": "Was wir tun",
+    "body": "Wir sind ein kleines Team mit der Mission, großartige Produkte zu bauen – und dabei setzen wir uns für eine menschlichere Art zu arbeiten ein.",
+    "link": "Mehr erfahren"
+  },
+  "stats": {
+    "heading": "Wo werde ich arbeiten?",
+    "body": "Buffer ist ein vollständig remote arbeitendes Team, verteilt über den ganzen Planeten. Wir haben Teammitglieder in 22 Ländern, 51 Städten und 11 Zeitzonen (und es werden mehr!). Als Mitglied unseres Teams kannst du von überall aus arbeiten, wo du am glücklichsten und produktivsten bist.",
+    "countriesLabel": "22 Länder",
+    "citiesLabel": "51 Städte",
+    "timezonesLabel": "11 Zeitzonen",
+    "link": "Mehr darüber, wie wir remote arbeiten"
+  },
+  "values": {
+    "heading": "Unsere Werte",
+    "card1Title": "Transparenz",
+    "card1Desc": "Wir leben Transparenz als Grundhaltung und als effektive Art, remote zu arbeiten.",
+    "card2Title": "Stetige Verbesserung",
+    "card2Desc": "Wir streben danach, jeden Tag ein bisschen besser zu werden.",
+    "card3Title": "Pragmatisch handeln",
+    "card3Desc": "Wir ziehen alle an einem Strang und denken in größeren Zusammenhängen.",
+    "card4Title": "Dankbarkeit zeigen",
+    "card4Desc": "Wir zeigen regelmäßig Wertschätzung füreinander und für unsere Umstände.",
+    "card5Title": "Optimismus wählen",
+    "card5Desc": "Wir blicken positiv in die Zukunft und stellen uns schwierigen Gesprächen.",
+    "card6Title": "Reflektieren",
+    "card6Desc": "Wir nehmen uns Zeit zur Reflexion und für persönliches Wachstum."
+  },
+  "team": {
+    "heading": "Wie ist das Team?",
+    "body": "Wir sind ein Arbeitgeber für alle. Wir feiern Vielfalt und schaffen ein respektvolles, freundliches Arbeitsumfeld."
+  },
+  "perks": {
+    "heading": "Benefits",
+    "card1Title": "Attraktives Gehalt",
+    "card1Desc": "Vergütung angepasst an Lebenshaltungskosten und Erfahrung.",
+    "card2Title": "Remote arbeiten",
+    "card2Desc": "Arbeite von dort, wo du am produktivsten bist.",
+    "card3Title": "4-Tage-Woche",
+    "card3Desc": "Vier Arbeitstage, der fünfte flexibel.",
+    "card4Title": "Krankenversicherung",
+    "card4Desc": "Krankenversicherung für alle Teammitglieder.",
+    "card5Title": "Homeoffice-Budget",
+    "card5Desc": "Budget für deinen Arbeitsplatz zu Hause.",
+    "card6Title": "Flexibler Urlaub",
+    "card6Desc": "Nimm dir die Zeit, die du brauchst."
+  },
+  "roles": {
+    "heading": "Offene Stellen",
+    "engineering": "Engineering",
+    "roleTitle": "Senior Engineer – Growth",
+    "apply": "Bewerben",
+    "emailHeading": "Erfahre zuerst von neuen Stellen.",
+    "emailPlaceholder": "E-Mail eingeben",
+    "emailButton": "Abonnieren"
+  },
+  "footer": {
+    "featuresTitle": "Funktionen",
+    "toolsTitle": "Tools",
+    "resourcesTitle": "Ressourcen",
+    "supportTitle": "Support",
+    "linkCreate": "Create",
+    "linkPublish": "Publish",
+    "linkCommunity": "Community",
+    "linkAnalyze": "Analyze",
+    "linkCollaborate": "Collaborate",
+    "linkAIAssistant": "KI-Assistent",
+    "linkStartPage": "Start Page",
+    "linkIntegrations": "Integrationen",
+    "linkIOSApp": "iOS-App",
+    "linkAndroidApp": "Android-App",
+    "linkBrowserExtension": "Browser-Erweiterung",
+    "linkBlog": "Blog",
+    "linkTemplateLibrary": "Vorlagen",
+    "linkSocialMediaInsights": "Social-Media-Insights",
+    "linkResourceLibrary": "Ressourcen-Bibliothek",
+    "linkGlossary": "Social-Media-Glossar",
+    "linkFreeTools": "Kostenlose Marketing-Tools",
+    "linkAIPostGenerator": "KI-Post-Generator",
+    "linkCompare": "Buffer vergleichen",
+    "linkOurCommunity": "Unsere Community",
+    "linkHelpCenter": "Hilfezentrum",
+    "linkStatus": "Status"
+  }
+}

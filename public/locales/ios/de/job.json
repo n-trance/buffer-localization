@@ -1,0 +1,82 @@
+{
+  "backLink": "Zurück zu allen offenen Stellen",
+  "hero": {
+    "title": "Senior Engineer - Growth Marketing",
+    "subtitle": "Werde Teil unseres Marketing-Teams und hilf Buffer, Millionen von Kreativen weltweit zu erreichen und Systeme aufzubauen, die unsere Wachstumsbemühungen antreiben."
+  },
+  "details": {
+    "heading": "Stellendetails",
+    "locationLabel": "Standort",
+    "location": "Remote",
+    "employmentTypeLabel": "Beschäftigungsart",
+    "employmentType": "Vollzeit",
+    "departmentLabel": "Abteilung",
+    "department": "Engineering",
+    "compensationLabel": "Vergütung",
+    "compensation": "156.500 $ – 202.300 $ • Beteiligung am Eigenkapital",
+    "compensationIntro": "Unser Anspruch bei Gehalt, Beteiligung und Benefits ist:",
+    "bullet1": "Transparent",
+    "bullet2": "Fair",
+    "bullet3": "Einfach",
+    "bullet4": "Großzügig",
+    "readMore": "Mehr zu unserer Vergütungsphilosophie und unserem Ansatz."
+  },
+  "aboutBuffer": {
+    "heading": "Über Buffer",
+    "body": "Wir entwickeln Software für Social Media und Markenaufbau für kleine Unternehmen, Kreative und Privatpersonen. Unsere Mission ist es, wichtige Werkzeuge bereitzustellen, die kleinen Unternehmen beim Start und Wachstum helfen. Durch außergewöhnlichen Kundenservice und aufbauende Inhalte helfen wir unseren Kunden zu glauben, dass sie erfolgreich sein und Gutes tun können. Buffer ist ein vollständig verteiltes Team, und wir haben uns immer bemüht, Dinge ein wenig anders zu machen. Von Anfang an haben wir uns darauf konzentriert, einen der einzigartigsten und erfüllendsten Arbeitsplätze zu schaffen, indem wir viele traditionelle Praktiken überdacht haben. Wir setzen auf Transparenz – du kannst alles über unsere Kennzahlen, Erfolge und Misserfolge im Transparency Dashboard lesen. Wir sind durch Buffers Werte verbunden und stellen weltweit ein. Wir streben ein vielfältiges und inklusives Arbeitsumfeld an. Bitte beachte, dass wir ein- bis zweimal im Jahr persönlich zusammenkommen, und diese Treffen werden ausdrücklich gefördert, um die Verbindung in unserem kleinen Team zu vertiefen."
+  },
+  "aboutRole": {
+    "heading": "Über die Rolle",
+    "body": "Wir suchen einen Senior Frontend Engineer für unser Growth-Marketing-Team. Das ist eine praxisnahe Engineering-Rolle, in der du Web-Erlebnisse und Systeme mitentwickelst, die Buffer zum Wachstum verhelfen. Die Arbeit umfasst Features und Seiten auf buffer.com – interaktive Tools, Benchmarks, Empfehlungssysteme, Conversion-Flows – sowie die technische Umsetzung: Integrationen mit Marketing-Tools, Analytics und Tracking, SEO-Implementierungen und Backend-Logik für unsere Marketing-Features. Wir brauchen jemanden, der sich im gesamten Frontend-Bereich wohlfühlt: stark in React und moderner Webentwicklung, aber auch in der Lage, in Backend-Logik einzutauchen, APIs anzubinden, Tracking-Pipelines zu debuggen und sich fehlendes Wissen anzueignen. Du arbeitest eng mit dem Director of Marketing, Senior Design Engineer und Senior Designer zusammen. Das Team schätzt Tempo und Iteration – wir liefern schnell, lernen aus dem echten Einsatz und verbessern uns kontinuierlich. Uns ist auch Handwerk wichtig – UX-Details beachten und Standards einhalten, bei gleichzeitigem Schwung."
+  },
+  "whatYoullDo": {
+    "heading": "Deine Aufgaben",
+    "item1": "Growth-Engineering-Projekte leiten, z. B. ein Lokalisierungs-Framework für internationale Zielgruppen, Logik für Empfehlungsprogramme und Attribution, Neugestaltung unseres Trackings für mehr Genauigkeit und Zuverlässigkeit. Du verantwortest Projekte von der Idee bis zum Launch.",
+    "item2": "Features auf Buffers Marketing-Seite bauen – Landing Pages, interaktive Tools und Conversion-Flows, die Nutzer:innen Buffer entdecken und ausprobieren lassen. Benchmarks, Rechner und nützliche Inhalte erstellen, die informieren und Bindung fördern.",
+    "item3": "Marketing-Plattform-Fähigkeiten mitgestalten durch Systeme und Frameworks, die das Team schneller machen. A/B-Test-Infrastruktur aufbauen, programmatische Seitenerstellung für SEO/AEO, Content-Management-Muster und wiederverwendbare Komponenten.",
+    "item4": "Experimente und Optimierung vorantreiben – A/B-Tests umsetzen, Conversion-Trichter optimieren und dem Team helfen, schneller aus dem Code zu lernen. Schnelligkeit mit Qualität in Einklang bringen.",
+    "item5": "Grundlagen verbessern durch Pflege der Integrationen in unserem Marketing-Tech-Stack (Segment, GTM, Mixpanel, BigQuery), Dependency-Upgrades, Performance-Optimierung und Barrierefreiheit. Du nimmst auch am On-Call-Dienst teil.",
+    "item6": "Zur Engineering-Kultur beitragen durch Pairing, Code-Reviews, Weitergabe von Wissen zu Growth-Systemen und Marketing-Engineering-Mustern sowie durch Mitwirken an der Weiterentwicklung unserer Frontend-Arbeit bei Buffer."
+  },
+  "skills": {
+    "heading": "Nützliche Fähigkeiten und Erfahrung",
+    "item1": "Starke Frontend-Grundlagen – solide Erfahrung mit React, TypeScript und moderner Webentwicklung. Unsere Seite läuft mit Next.js; uns sind Anpassungsfähigkeit und Neugier wichtiger als Erfahrung mit einem bestimmten Stack.",
+    "item2": "Du arbeitest bei Bedarf stackübergreifend – Backend-Logik, API-Routen, Daten aus externen Systemen, Anbindung von Drittanbieter-Integrationen.",
+    "item3": "Erfahrung mit Marketing- oder Growth-Teams: SEO, Analytics, A/B-Tests, Conversion-Optimierung. Du hast vermutlich Empfehlungssysteme, programmatische Seiten oder Conversion-Trichter gebaut.",
+    "item4": "Du bewegst dich sicher in Unschärfe und denkst in Systemen – du schaffst Klarheit und stellst die richtigen Fragen. Du siehst das Gesamtsystem und baust Dinge, die ganzheitlich skalieren.",
+    "item5": "Ein persönliches Interesse an Content-Erstellung – vielleicht einen Newsletter, eine Community in Social Media oder du teilst regelmäßig deine Arbeit online. Du hast Buffer genutzt und legst Wert auf die Erfahrung beim Planen und Veröffentlichen von Inhalten.",
+    "item6": "Du balancierst Handwerk und Tempo – du lieferst schnell und lernst aus dem echten Einsatz, achtest aber auch auf Qualität, UX-Details, Barrierefreiheit und Performance.",
+    "item7": "Du fühlst dich in remote, asynchronen Umgebungen wohl – du kommunizierst klar, unterstützt dein Team und wartest nicht auf Erlaubnis, um voranzukommen.",
+    "item8": "Du nutzt KI-Tools souverän und arbeitest mit mehr Hebelkraft. Plus, wenn du KI bereits in nutzerorientierte Marketing-Features im großen Maßstab integriert hast.",
+    "item9": "Du hast das vermutlich mindestens 5+ Jahre gemacht; Tiefe der Erfahrung und Wirkung zählen mehr als eine bestimmte Jahreszahl."
+  },
+  "techStack": {
+    "heading": "Unser Tech-Stack",
+    "item1": "Next.js v15+ mit React und TypeScript für buffer.com (derzeit Pages Router, Migration zu App Router geplant). Express-Middleware für Teile des Routings (Migration zu Next.js-Middleware geplant).",
+    "item2": "Styling mit CSS Modules und Motion für Animationen; Radix UI und Base UI für barrierefreie Komponenten; Recharts für Datenvisualisierungen.",
+    "item3": "Marketing-Technologie: Segment, Google Tag Manager, Mixpanel und BigQuery für Tracking und Analytics.",
+    "item4": "Inhalte und Daten aus Ghost CMS (Blog), Redash, Notion, Google Sheets und verschiedenen externen APIs."
+  },
+  "interview": {
+    "heading": "Bewerbungsprozess",
+    "step1": "Bewerbung – Erzähl uns in Anschreiben und Lebenslauf, warum du zu Buffer willst. Wir empfehlen, dich nur für eine Rolle zu bewerben; wenn wir dich für eine andere Position geeignet finden, leiten wir deine Bewerbung intern weiter.",
+    "step2": "Rollen-Interview – Gespräch mit der Hiring Managerin bzw. dem Hiring Manager und einer Ingenieur:in zum Arbeiten bei Buffer.",
+    "step3": "Code-Review-Aufgabe – Wir schicken dir eine asynchrone Aufgabe: einen Pull Request reviewen.",
+    "step4": "Technische Interviews – Gespräche mit Ingenieur:innen zu deiner technischen Erfahrung. Bei Senior-Rollen zusätzlich ein Gespräch zu Führung und Zusammenarbeit im Team.",
+    "step5": "Treffen mit der CEO – Vertiefendes Verständnis von Buffers Strategie, Werten und Arbeitsweise.",
+    "step6": "Kollaborationsphase – Zwei Tage (voll bezahlt) an einem echten Projekt mit uns arbeiten. Erleben, wie sich die Zusammenarbeit im Team anfühlt.",
+    "step7": "Angebot – Wir schließen mit einem Angebot und der Besprechung der letzten Details ab."
+  },
+  "perksHeading": "Benefits und Extras",
+  "perks": {
+    "item1": "Wettbewerbsfähiges Gehalt",
+    "item2": "Remote arbeiten",
+    "item3": "4-Tage-Woche",
+    "item4": "Krankenversicherung",
+    "item5": "Heimbüro-Ausstattung",
+    "item6": "Flexibler Urlaub",
+    "item7": "Sparplan",
+    "item8": "Gewinnbeteiligung",
+    "item9": "Familienurlaub"
+  }
+}

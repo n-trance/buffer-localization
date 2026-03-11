@@ -1,0 +1,92 @@
+{
+  "nav": { "cta": "採用情報" },
+  "hero": {
+    "title": "私たちの旅に参加しませんか",
+    "subtitle": "私たちと働くことは、単なる仕事以上のものです。一緒に歩みませんか？",
+    "cta": "採用情報を見る"
+  },
+  "about": {
+    "heading": "私たちの仕事",
+    "body": "私たちは、より人間らしい働き方を大切にしながら、優れた製品を作ることを使命とする小さなチームです。",
+    "link": "詳しく見る"
+  },
+  "stats": {
+    "heading": "どこで働きますか？",
+    "body": "Bufferは完全リモートのチームで、世界中に広がっています。22カ国、51都市、11タイムゾーン（そして増え続けています！）に仲間がいます。チームの一員として、あなたが最も幸せで生産的に働ける場所で働くことができます。",
+    "countriesLabel": "22カ国",
+    "citiesLabel": "51都市",
+    "timezonesLabel": "11タイムゾーン",
+    "link": "リモートワークについてもっと見る"
+  },
+  "values": {
+    "heading": "私たちの価値観",
+    "card1Title": "透明性",
+    "card1Desc": "透明性を大切にし、リモートで信頼を築く効果的な働き方を選んでいます。",
+    "card2Title": "継続的な改善",
+    "card2Desc": "昨日の自分より少しでも良くなるよう、日々努めています。",
+    "card3Title": "謙虚に実行する",
+    "card3Desc": "私たちは皆で同じ船を漕いでいます。 ego を捨て、全体を考えて行動します。",
+    "card4Title": "感謝を示す",
+    "card4Desc": "お互いや、仕事を可能にしてくれる環境に、日々感謝を示しています。",
+    "card5Title": "楽観を選ぶ",
+    "card5Desc": "前向きに未来を見据えつつ、難しい会話にも向き合います。",
+    "card6Title": "振り返って前に進む",
+    "card6Desc": "振り返りの時間を大切にし、自己成長につなげています。"
+  },
+  "team": {
+    "heading": "チームの雰囲気は？",
+    "body": "私たちは多様な背景を持つ仲間を迎え入れ、尊重と親切を大切にする職場を目指しています。"
+  },
+  "perks": {
+    "heading": "福利厚生",
+    "card1Title": "競争力のある給与",
+    "card1Desc": "生活コストと経験に応じた報酬。",
+    "card2Title": "リモートワーク",
+    "card2Desc": "一番生産的に働ける場所で。",
+    "card3Title": "4日勤務週",
+    "card3Desc": "4日勤務、5日目は柔軟に。",
+    "card4Title": "健康保険",
+    "card4Desc": "全メンバーに健康保険を提供。",
+    "card5Title": "在宅オフィス環境",
+    "card5Desc": "在宅ワーク環境のセットアップ予算。",
+    "card6Title": "柔軟な休暇",
+    "card6Desc": "必要な休息を取れる制度。"
+  },
+  "roles": {
+    "heading": "採用情報",
+    "engineering": "エンジニアリング",
+    "roleTitle": "シニアエンジニア – Growth",
+    "apply": "応募する",
+    "emailHeading": "新着の募集をいち早く受け取る。",
+    "emailPlaceholder": "メールアドレスを入力",
+    "emailButton": "登録"
+  },
+  "footer": {
+    "featuresTitle": "機能",
+    "toolsTitle": "ツール",
+    "resourcesTitle": "リソース",
+    "supportTitle": "サポート",
+    "linkCreate": "Create",
+    "linkPublish": "Publish",
+    "linkCommunity": "Community",
+    "linkAnalyze": "Analyze",
+    "linkCollaborate": "Collaborate",
+    "linkAIAssistant": "AIアシスタント",
+    "linkStartPage": "Start Page",
+    "linkIntegrations": "連携",
+    "linkIOSApp": "iOSアプリ",
+    "linkAndroidApp": "Androidアプリ",
+    "linkBrowserExtension": "ブラウザ拡張",
+    "linkBlog": "ブログ",
+    "linkTemplateLibrary": "テンプレートライブラリ",
+    "linkSocialMediaInsights": "ソーシャルメディアインサイト",
+    "linkResourceLibrary": "リソースライブラリ",
+    "linkGlossary": "用語集",
+    "linkFreeTools": "無料マーケティングツール",
+    "linkAIPostGenerator": "AI投稿ジェネレーター",
+    "linkCompare": "Bufferを比較",
+    "linkOurCommunity": "コミュニティ",
+    "linkHelpCenter": "ヘルプセンター",
+    "linkStatus": "ステータス"
+  }
+}

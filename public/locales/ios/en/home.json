@@ -1,0 +1,20 @@
+{
+  "intro": {
+    "title": "To get started on iOS, edit the page.",
+    "description": "Looking for a starting point or more instructions? Head over to {{templates}} or the {{learning}} center.",
+    "descriptionBefore": "Looking for a starting point or more instructions? Head over to ",
+    "descriptionMiddle": " or the ",
+    "descriptionAfter": " center.",
+    "templates": "Templates",
+    "learning": "Learning",
+    "center": "center"
+  },
+  "ctas": {
+    "deploy": "Deploy Now (iOS)",
+    "documentation": "Documentation"
+  },
+  "images": {
+    "nextLogo": "Next.js logo",
+    "vercelLogo": "Vercel logomark"
+  }
+}

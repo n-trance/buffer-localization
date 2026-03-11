@@ -1,0 +1,92 @@
+{
+  "nav": { "cta": "Voir les offres" },
+  "hero": {
+    "title": "Rejoignez notre aventure",
+    "subtitle": "Travailler avec nous, c'est bien plus qu'un job. Envie de nous rejoindre ?",
+    "cta": "Voir nos offres"
+  },
+  "about": {
+    "heading": "Ce que nous faisons",
+    "body": "Nous sommes une petite équipe avec la mission de créer des produits utiles – et en chemin, nous défendons une façon de travailler plus humaine.",
+    "link": "En savoir plus"
+  },
+  "stats": {
+    "heading": "Où vais-je travailler ?",
+    "body": "Buffer est une équipe 100 % distante, répartie sur toute la planète. Nous avons des coéquipiers dans 22 pays, 51 villes et 11 fuseaux horaires (et ce n'est pas fini !). En tant que membre de l'équipe, vous pourrez travailler là où vous êtes le plus heureux et productif.",
+    "countriesLabel": "22 pays",
+    "citiesLabel": "51 villes",
+    "timezonesLabel": "11 fuseaux horaires",
+    "link": "En savoir plus sur notre travail à distance"
+  },
+  "values": {
+    "heading": "Nos valeurs",
+    "card1Title": "Transparence",
+    "card1Desc": "Nous choisissons la transparence comme mode de vie et comme façon efficace de travailler à distance.",
+    "card2Title": "S'améliorer chaque jour",
+    "card2Desc": "Nous visons à être un peu meilleurs chaque jour.",
+    "card3Title": "Agir sans ego",
+    "card3Desc": "Nous avançons ensemble, en pensant au collectif.",
+    "card4Title": "Montrer de la gratitude",
+    "card4Desc": "Nous exprimons régulièrement notre gratitude les uns envers les autres.",
+    "card5Title": "Choisir l'optimisme",
+    "card5Desc": "Nous abordons l'avenir avec optimisme tout en assumant les conversations difficiles.",
+    "card6Title": "Réfléchir pour avancer",
+    "card6Desc": "Nous prenons le temps de réfléchir et de grandir."
+  },
+  "team": {
+    "heading": "À quoi ressemble l'équipe ?",
+    "body": "Nous sommes un employeur pour tous. Nous célébrons la diversité et favorisons un environnement respectueux et bienveillant."
+  },
+  "perks": {
+    "heading": "Avantages",
+    "card1Title": "Salaire compétitif",
+    "card1Desc": "Rémunération adaptée à ton coût de la vie et ton expérience.",
+    "card2Title": "Télétravail",
+    "card2Desc": "Vis et travaille où tu es le plus productif.",
+    "card3Title": "Semaine de 4 jours",
+    "card3Desc": "Quatre jours de travail, le cinquième flexible.",
+    "card4Title": "Assurance santé",
+    "card4Desc": "Couverture santé pour toute l'équipe.",
+    "card5Title": "Bureau à la maison",
+    "card5Desc": "Budget pour aménager ton espace de travail.",
+    "card6Title": "Congés flexibles",
+    "card6Desc": "Prends le temps dont tu as besoin."
+  },
+  "roles": {
+    "heading": "Offres d'emploi",
+    "engineering": "Ingénierie",
+    "roleTitle": "Ingénieur senior – Growth",
+    "apply": "Postuler",
+    "emailHeading": "Soyez le premier informé des nouvelles offres.",
+    "emailPlaceholder": "Entrez votre e-mail",
+    "emailButton": "S'abonner"
+  },
+  "footer": {
+    "featuresTitle": "Fonctionnalités",
+    "toolsTitle": "Outils",
+    "resourcesTitle": "Ressources",
+    "supportTitle": "Support",
+    "linkCreate": "Create",
+    "linkPublish": "Publish",
+    "linkCommunity": "Community",
+    "linkAnalyze": "Analyze",
+    "linkCollaborate": "Collaborate",
+    "linkAIAssistant": "Assistant IA",
+    "linkStartPage": "Start Page",
+    "linkIntegrations": "Intégrations",
+    "linkIOSApp": "App iOS",
+    "linkAndroidApp": "App Android",
+    "linkBrowserExtension": "Extension navigateur",
+    "linkBlog": "Blog",
+    "linkTemplateLibrary": "Bibliothèque de modèles",
+    "linkSocialMediaInsights": "Social Media Insights",
+    "linkResourceLibrary": "Bibliothèque de ressources",
+    "linkGlossary": "Glossaire des termes",
+    "linkFreeTools": "Outils marketing gratuits",
+    "linkAIPostGenerator": "Générateur de posts IA",
+    "linkCompare": "Comparer Buffer",
+    "linkOurCommunity": "Notre communauté",
+    "linkHelpCenter": "Centre d'aide",
+    "linkStatus": "État du service"
+  }
+}

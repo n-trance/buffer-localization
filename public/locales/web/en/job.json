@@ -1,0 +1,82 @@
+{
+  "backLink": "Back to all open roles",
+  "hero": {
+    "title": "Senior Engineer - Growth Marketing",
+    "subtitle": "Join our Marketing team and help Buffer reach millions of creators worldwide and build systems that power our Growth efforts"
+  },
+  "details": {
+    "heading": "Role details",
+    "locationLabel": "Location",
+    "location": "Remote",
+    "employmentTypeLabel": "Employment type",
+    "employmentType": "Full time",
+    "departmentLabel": "Department",
+    "department": "Engineering",
+    "compensationLabel": "Compensation",
+    "compensation": "$156.5K – $202.3K • Offers Equity",
+    "compensationIntro": "We strive for Buffer's approach to salary, equity, and benefits to be:",
+    "bullet1": "Transparent",
+    "bullet2": "Fair",
+    "bullet3": "Simple",
+    "bullet4": "Generous",
+    "readMore": "Read more about our compensation philosophies and approach."
+  },
+  "aboutBuffer": {
+    "heading": "About Buffer",
+    "body": "We create social media and brand-building software for small businesses, creators, and individuals. Our mission is to provide essential tools to help small businesses get off the ground and grow. Through exceptional customer service and uplifting content, we help our customers believe they can succeed and do good along the way. Buffer is a fully distributed team, and we've always aimed to do things a little differently. Since the early days, we've focused on building one of the most unique and fulfilling workplaces by rethinking a lot of traditional practices. We also default to transparency — you can read all about our metrics, successes and failures on our Transparency Dashboard. We're united by Buffer's values, and we hire and work from all over the world. We strive to create a diverse and inclusive work environment. Please note that we do travel to work together in person once or twice per year, and those events are highly encouraged to build deeper connections among our small team."
+  },
+  "aboutRole": {
+    "heading": "About the role",
+    "body": "We're looking for a Senior Frontend Engineer to join our Growth Marketing team. This is a hands-on engineering role building the web experiences and systems that help Buffer grow. The work spans building features and pages across buffer.com — interactive tools, benchmarks, referral systems, conversion flows — along with the technical implementation: integrations with marketing tools, analytics and tracking systems, SEO implementations, and backend logic that powers our marketing features. We need someone comfortable across the full frontend scope: strong with React and modern web development, but also capable of diving into backend logic, connecting third-party APIs, debugging tracking pipelines, and figuring out what they don't know. You'll collaborate closely with the Director of Marketing, Senior Design Engineer, and Senior Designer. The team values pace and iteration — we ship quickly, learn from real usage, and improve as we go. We also care about craft — noticing the UX details and maintaining standards while keeping momentum."
+  },
+  "whatYoullDo": {
+    "heading": "What you'll do",
+    "item1": "Lead growth engineering projects, like implementing a localization framework to support international audiences, building referral program logic and attribution systems, rebuilding our tracking implementation to improve accuracy and reliability. You'll own projects from concept to launch.",
+    "item2": "Build features on Buffer's marketing site — ship landing pages, interactive tools, and conversion flows that help people discover and try Buffer. Create benchmarks, calculators, and utility content that educate users and drive engagement.",
+    "item3": "Shape marketing platform capabilities by building systems and frameworks that let the team move faster. Create A/B testing infrastructure, develop programmatic page generation for SEO/AEO, implement content management patterns, and build reusable components.",
+    "item4": "Drive experimentation and optimization — implement A/B tests, optimize conversion funnels, and help the team learn faster through code. Balance moving quickly with maintaining quality.",
+    "item5": "Improve foundations by maintaining integrations with our marketing technology stack (Segment, GTM, Mixpanel, BigQuery), upgrading dependencies, optimizing performance, and ensuring accessibility. You'll also participate in our on-call rotation.",
+    "item6": "Contribute to shaping engineering culture by pairing with other engineers, reviewing code, sharing knowledge about growth systems and marketing engineering patterns, and helping level up how we approach frontend work at Buffer."
+  },
+  "skills": {
+    "heading": "Helpful skills and experience",
+    "item1": "Strong frontend foundations — solid experience with React, TypeScript, and modern web development. Our site runs on Next.js, but we value adaptability and curiosity over specific stack experience.",
+    "item2": "Comfortable working across the stack when needed — writing backend logic, building API routes, getting data from various external systems, and connecting third-party integrations together.",
+    "item3": "Experience with marketing or growth teams: SEO, analytics, A/B testing, and conversion optimization. You've likely built referral systems, programmatic pages, or conversion funnels.",
+    "item4": "Comfortable navigating ambiguity and thinking in systems — you bring clarity and ask good questions. You look at the full system and build things that can scale holistically.",
+    "item5": "A personal stake in content creation — maybe you've run a newsletter, built an audience on social media, or regularly share your work online. You've used Buffer and care about the experience of planning and publishing content.",
+    "item6": "You balance craft with pace — you ship quickly and learn from real usage, but you also care about quality, UX details, accessibility, and performance.",
+    "item7": "You thrive in remote, async environments — you communicate clearly, support your teammates, and don't wait for permission to make progress.",
+    "item8": "Fluent with AI tools and use them to work with more leverage. Bonus if you've integrated AI into user-facing marketing features at scale.",
+    "item9": "You've likely been doing this for at least 5+ years, but depth of experience and impact matter more than a specific number of years."
+  },
+  "techStack": {
+    "heading": "Our tech stack",
+    "item1": "Next.js v15+ with React and TypeScript for buffer.com (currently using Pages router, planning to migrate to App router). Express middleware for some routing (planning to migrate to Next.js middleware).",
+    "item2": "Styling with CSS Modules and Motion for animations; Radix UI and Base UI for accessible components; Recharts for data visualizations.",
+    "item3": "Marketing technology: Segment, Google Tag Manager, Mixpanel, and BigQuery for tracking and analytics.",
+    "item4": "Content and data from Ghost CMS (blog), Redash, Notion, Google Sheets, and various external APIs."
+  },
+  "interview": {
+    "heading": "Interview process",
+    "step1": "Application — When submitting your application and resume, tell us why you want to join Buffer. We recommend applying to only one role; if we think you'd be great for a different position, we'll re-route your application internally.",
+    "step2": "Role interview — Chat with the hiring manager and a peer engineer to understand what it takes to work at Buffer.",
+    "step3": "Code review assignment — We'll send you an asynchronous assignment to review a pull request.",
+    "step4": "Technical interviews — Interview with engineers focused on your technical experience. For senior roles, an additional conversation about leadership and how you work with teams.",
+    "step5": "Meet the CEO — Gain a deeper understanding of Buffer's strategy, values, and work processes.",
+    "step6": "Collaboration period — Work with us on a real project over 2 days (fully paid). See how it feels to work in the team.",
+    "step7": "Offer — We wrap it up with an offer and discuss the final details."
+  },
+  "perksHeading": "Perks and benefits",
+  "perks": {
+    "item1": "Competitive salary",
+    "item2": "Work remotely",
+    "item3": "4-Day workweeks",
+    "item4": "Health insurance",
+    "item5": "Home office setup",
+    "item6": "Flexible time off",
+    "item7": "Savings plan",
+    "item8": "Profit sharing",
+    "item9": "Family leave"
+  }
+}

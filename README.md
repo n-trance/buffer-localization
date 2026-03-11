@@ -20,17 +20,16 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Documentation
 
-To learn more about Next.js, take a look at the following resources:
+- **[Getting started](docs/getting-started.md)** – Start the project, select languages, and how the app handles translated text, dates, currency, and RTL.
+- **[Translation (i18n)](docs/i18n.md)** – How the app handles translations with i18next: config, namespaces, `useT()`, formatters, and adding languages.
+- **[i18n naming rules](docs/i18n-naming-rules.md)** – Key convention (`screen.section.key`), character/casing rules, and examples so JSON works on web, iOS, and Android.
+- **[Translate script (en → other languages)](docs/translate-locales.md)** – Script that translates English locale folders to de, fr, ja, ar via the Open Router API.
+- **[iOS and Android: using JSON for i18n](docs/mobile-i18n.md)** – How mobile apps can use the same locale JSON (bundle or fetch) and key structure.
+- **[Translations API](docs/translations-api.md)** – The endpoint that returns translation JSON by language and platform (query params, response shape, caching).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Learn more
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Deploy on Vercel](https://nextjs.org/docs/app/building-your-application/deploying)

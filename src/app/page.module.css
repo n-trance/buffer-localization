@@ -1,141 +1,437 @@
 .page {
-  --background: #fafafa;
-  --foreground: #fff;
-
-  --text-primary: #000;
-  --text-secondary: #666;
-
-  --button-primary-hover: #383838;
-  --button-secondary-hover: #f2f2f2;
-  --button-secondary-border: #ebebeb;
-
-  display: flex;
   min-height: 100vh;
-  align-items: center;
-  justify-content: center;
-  font-family: var(--font-geist-sans);
-  background-color: var(--background);
+  font-family: var(--font-sans);
+  background: var(--background);
+  color: var(--text-primary);
 }
 
 .main {
-  display: flex;
-  min-height: 100vh;
   width: 100%;
-  max-width: 800px;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: space-between;
-  background-color: var(--foreground);
-  padding: 120px 60px;
-}
-
-.intro {
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
-  text-align: left;
-  gap: 24px;
+  align-items: stretch;
 }
 
-.intro h1 {
-  max-width: 320px;
-  font-size: 40px;
+/* Section layout */
+.section {
+  width: 100%;
+  padding: 4rem 1.5rem;
+}
+
+.sectionInner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.sectionTitle {
+  font-size: 2rem;
   font-weight: 600;
-  line-height: 48px;
-  letter-spacing: -2.4px;
-  text-wrap: balance;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
   color: var(--text-primary);
+  margin-bottom: 1rem;
 }
 
-.intro p {
-  max-width: 440px;
-  font-size: 18px;
-  line-height: 32px;
-  text-wrap: balance;
+.sectionBody {
+  font-size: 1.125rem;
+  line-height: 1.7;
+  color: var(--text-secondary);
+  max-width: 60ch;
+}
+
+.sectionBody + .sectionBody {
+  margin-top: 1rem;
+}
+
+/* Hero – dark teal background, white heading, light gray subtitle, pastel green CTA */
+.hero {
+  background: var(--hero-bg);
+  padding: 5rem 1.5rem 6rem;
+  text-align: center;
+}
+
+.heroInner {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.heroTitle {
+  font-size: clamp(2.5rem, 5vw, 3.5rem);
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.03em;
+  color: var(--hero-title-color);
+  margin-bottom: 1rem;
+}
+
+.heroSubtitle {
+  font-size: 1.25rem;
+  line-height: 1.6;
+  color: var(--hero-subtitle-color);
+  margin-bottom: 2rem;
+}
+
+.heroCta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.375rem;
+  padding: 0.75rem 1.5rem;
+  border-radius: 9999px;
+  font-size: 1rem;
+  font-weight: 500;
+  background: var(--hero-cta-bg);
+  color: var(--hero-cta-text);
+  text-decoration: none;
+  transition: background 0.2s;
+}
+
+.heroCtaIcon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.875em;
+  line-height: 1;
+  color: var(--hero-cta-text);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .heroCta:hover {
+    background: var(--hero-cta-hover-bg);
+  }
+}
+
+/* Stats – icon blocks + uppercase labels, CTA with arrow */
+.statRow {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.statCard {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.statIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 10px;
+  flex-shrink: 0;
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.statIconOrange {
+  background: #fde8e0;
+}
+
+.statIconGreen {
+  background: #d8f0d8;
+}
+
+.statIconPurple {
+  background: #ebe0f5;
+}
+
+.statLabel {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+/* Secondary button – outline, dark green, with arrow */
+.statsCta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  margin-top: 2rem;
+  padding: 0.625rem 1.25rem;
+  border-radius: 9999px;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  color: var(--color-green-800);
+  background: var(--surface);
+  border: 1px solid var(--color-green-800);
+  text-decoration: none;
+  transition: color 0.2s, border-color 0.2s, background 0.2s;
+}
+
+.statsCta:hover {
+  color: var(--color-green-900);
+  border-color: var(--color-green-900);
+  background: var(--surface-alt);
+}
+
+.statsCtaIcon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+}
+
+/* Value cards */
+.valuesGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.valueCard {
+  padding: 1.5rem;
+  border-radius: 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+}
+
+.valueCardIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  line-height: 1;
+  margin-bottom: 0.75rem;
+}
+
+.valueCardIconBg1 { background: var(--color-green-050); }
+.valueCardIconBg2 { background: var(--color-pink-050); }
+.valueCardIconBg3 { background: var(--color-blue-050); }
+.valueCardIconBg4 { background: var(--color-purple-050); }
+.valueCardIconBg5 { background: var(--color-green-050); }
+.valueCardIconBg6 { background: var(--color-yellow-050); }
+
+.valueCardTitle {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+.valueCardText {
+  font-size: 0.9375rem;
+  line-height: 1.6;
   color: var(--text-secondary);
 }
 
-.intro a {
+/* Perk cards */
+.perksGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin-top: 2rem;
+}
+
+.perkCard {
+  padding: 1.25rem;
+  border-radius: 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+}
+
+.perkCardIcon {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+  line-height: 1;
+}
+
+.perkCardTitle {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.25rem;
+}
+
+.perkCardDesc {
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: var(--text-secondary);
+}
+
+/* Roles – white card with shadow, title left, Apply → right */
+.rolesBlock {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  padding: 1.25rem 1.5rem;
+  border-radius: 12px;
+  background: var(--surface);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  color: var(--text-primary);
+  text-decoration: none;
+  transition: box-shadow 0.2s;
+}
+
+.rolesBlock:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.roleTitle {
+  font-size: 1rem;
   font-weight: 500;
   color: var(--text-primary);
 }
 
-.ctas {
-  display: flex;
-  flex-direction: row;
-  width: 100%;
-  max-width: 440px;
-  gap: 16px;
-  font-size: 14px;
-}
-
-.ctas a {
-  display: flex;
-  justify-content: center;
+.rolesApply {
+  display: inline-flex;
   align-items: center;
-  height: 40px;
-  padding: 0 16px;
-  border-radius: 128px;
-  border: 1px solid transparent;
-  transition: 0.2s;
-  cursor: pointer;
-  width: fit-content;
+  gap: 0.375rem;
+  font-size: 0.9375rem;
   font-weight: 500;
+  color: var(--text-primary);
 }
 
-a.primary {
-  background: var(--text-primary);
-  color: var(--background);
-  gap: 8px;
+.rolesApplyIcon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
 }
 
-a.secondary {
-  border-color: var(--button-secondary-border);
+.emailRow {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 2rem;
+  max-width: 400px;
 }
 
-/* Enable hover only on non-touch devices */
-@media (hover: hover) and (pointer: fine) {
-  a.primary:hover {
-    background: var(--button-primary-hover);
-    border-color: transparent;
+.emailInput {
+  flex: 1;
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  font-size: 0.9375rem;
+  background: var(--surface);
+  color: var(--text-primary);
+}
+
+.emailButton {
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  font-size: 0.9375rem;
+  font-weight: 600;
+  background: var(--primary);
+  color: var(--on-primary);
+  border: none;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.2s;
+}
+
+.emailButton:hover {
+  background: var(--primary-hover);
+}
+
+/* Footer – dark green, two columns */
+.footer {
+  background: var(--footer-bg);
+  padding: 3rem 1.5rem 3rem;
+  margin-top: 3rem;
+}
+
+.footerGrid {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem 4rem;
+}
+
+.footerColumn {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.footerColumnTitle {
+  font-size: 0.9375rem;
+  font-weight: 700;
+  color: var(--footer-heading);
+  margin: 0 0 0.5rem 0;
+}
+
+.footerLinks {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.footerLink {
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: var(--footer-link);
+  text-decoration: none;
+}
+
+.footerLink:hover {
+  color: var(--footer-link-hover);
+}
+
+.sectionLink {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--primary);
+  text-decoration: underline;
+  margin-top: 1rem;
+  display: inline-block;
+  transition: color 0.2s;
+}
+
+.sectionLink:hover {
+  color: var(--primary-hover);
+  text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .section {
+    padding: 3rem 1rem;
   }
 
-  a.secondary:hover {
-    background: var(--button-secondary-hover);
-    border-color: transparent;
+  .hero {
+    padding: 3rem 1rem 4rem;
+  }
+
+  .statRow {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .valuesGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .perksGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .footerGrid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
   }
 }
 
-@media (max-width: 600px) {
-  .main {
-    padding: 48px 24px;
-  }
-
-  .intro {
-    gap: 16px;
-  }
-
-  .intro h1 {
-    font-size: 32px;
-    line-height: 40px;
-    letter-spacing: -1.92px;
-  }
+.footerBlock {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
 }
 
-@media (prefers-color-scheme: dark) {
-  .logo {
-    filter: invert();
-  }
+@media (max-width: 480px) {
 
-  .page {
-    --background: #000;
-    --foreground: #000;
-
-    --text-primary: #ededed;
-    --text-secondary: #999;
-
-    --button-primary-hover: #ccc;
-    --button-secondary-hover: #1a1a1a;
-    --button-secondary-border: #1a1a1a;
+  .emailRow {
+    flex-direction: column;
   }
 }

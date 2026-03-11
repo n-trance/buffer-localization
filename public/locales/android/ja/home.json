@@ -1,0 +1,20 @@
+{
+  "intro": {
+    "title": "始めるには、page.tsx を編集してください。",
+    "description": "入門用のテンプレートや説明をお探しですか？{{templates}}または{{learning}}センターをご覧ください。",
+    "descriptionBefore": "入門用のテンプレートや説明をお探しですか？",
+    "descriptionMiddle": " または ",
+    "descriptionAfter": " センターをご覧ください。",
+    "templates": "テンプレート",
+    "learning": "学習",
+    "center": "センター"
+  },
+  "ctas": {
+    "deploy": "デプロイ",
+    "documentation": "ドキュメント"
+  },
+  "images": {
+    "nextLogo": "Next.js ロゴ",
+    "vercelLogo": "Vercel ロゴ"
+  }
+}

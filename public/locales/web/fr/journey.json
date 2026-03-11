@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "cta": "Voir les postes ouverts"
+  },
+  "hero": {
+    "title": "Rejoignez notre aventure",
+    "subtitle": "Travailler avec nous est plus qu'un simple emploi. Envie de nous accompagner dans ce voyage ?",
+    "cta": "Voir nos postes ouverts"
+  },
+  "about": {
+    "heading": "Ce que nous faisons",
+    "body": "Nous sommes une petite équipe avec pour mission de créer d'excellents produits – et ce faisant, nous promouvons une manière plus humaine de travailler. Nous avons commencé avec une idée simple et sommes devenus une suite d'outils au service de milliers de clients."
+  },
+  "stats": {
+    "heading": "Où travaillerai-je ?",
+    "body": "Buffer est une équipe entièrement à distance, répartie sur toute la planète. Nous avons des collaborateurs dans 22 pays, 51 villes et 11 fuseaux horaires (et ce n'est pas fini !). En tant que membre de notre équipe, vous serez invité à travailler là où vous êtes le plus heureux et le plus productif.",
+    "countriesLabel": "22 Pays",
+    "citiesLabel": "51 Villes",
+    "timezonesLabel": "11 Fuseaux horaires",
+    "link": "En savoir plus sur notre façon de travailler à distance"
+  },
+  "values": {
+    "heading": "Unis par nos valeurs",
+    "card1Title": "Privilégier la transparence",
+    "card1Desc": "Nous choisissons la transparence comme mode de vie d'authenticité et d'honnêteté, et comme moyen efficace de travailler à distance et de bâtir la confiance.",
+    "card2Title": "S'améliorer constamment",
+    "card2Desc": "Nous nous efforçons d'être meilleurs chaque jour – sans compétition avec qui que ce soit d'autre que nous-mêmes d'hier.",
+    "card3Title": "Être un acteur sans ego",
+    "card3Desc": "Nous nous détachons de notre travail pour une expérience meilleure et plus productive pour tous. Nous avançons tous ensemble.",
+    "card4Title": "Faire preuve de gratitude",
+    "card4Desc": "Nous exprimons régulièrement notre gratitude les uns envers les autres, envers la technologie qui rend notre travail possible, et envers les bénédictions de nos vies.",
+    "card5Title": "Choisir l'optimisme",
+    "card5Desc": "Nous abordons l'avenir avec positivité tout en acceptant les conversations difficiles au service de notre santé à long terme.",
+    "card6Title": "Réfléchir pour débloquer",
+    "card6Desc": "Nous prenons du temps pour la réflexion. Nous croyons que la croissance personnelle découle de la vulnérabilité et de l'introspection."
+  },
+  "team": {
+    "heading": "À quoi ressemble l'équipe ?",
+    "body": "Nous sommes un employeur garantissant l'égalité des chances et nous sommes unis par nos valeurs. Nous célébrons les différences uniques et embauchons des personnes talentueuses issues de divers horizons. Nous nous engageons à un environnement de travail respectueux et bienveillant."
+  },
+  "perks": {
+    "heading": "Avantages et bénéfices",
+    "card1Title": "Salaire compétitif",
+    "card1Desc": "Une rémunération qui s'adapte à votre coût de la vie et à votre expérience.",
+    "card2Title": "Travailler à distance",
+    "card2Desc": "Vivez et travaillez là où vous êtes le plus heureux et le plus productif.",
+    "card3Title": "Semaines de 4 jours",
+    "card3Desc": "Quatre jours de travail avec un cinquième jour flexible pour les dépassements ou le temps personnel.",
+    "card4Title": "Assurance maladie",
+    "card4Desc": "Couverture santé pour tous les membres de l'équipe.",
+    "card5Title": "Aménagement du bureau à domicile",
+    "card5Desc": "Budget pour aménager votre bureau à domicile.",
+    "card6Title": "Congés flexibles",
+    "card6Desc": "Prenez le temps dont vous avez besoin pour vous reposer et vous ressourcer."
+  },
+  "roles": {
+    "heading": "Postes ouverts",
+    "engineering": "Ingénierie",
+    "roleTitle": "Ingénieur Senior – Croissance",
+    "apply": "Postuler",
+    "emailHeading": "Soyez le premier informé des nouveaux postes.",
+    "emailPlaceholder": "Entrez votre e-mail",
+    "emailButton": "S'abonner"
+  },
+  "footer": {
+    "featuresTitle": "Fonctionnalités",
+    "toolsTitle": "Outils",
+    "resourcesTitle": "Ressources",
+    "supportTitle": "Support",
+    "linkCreate": "Créer",
+    "linkPublish": "Publier",
+    "linkCommunity": "Communauté",
+    "linkAnalyze": "Analyser",
+    "linkCollaborate": "Collaborer",
+    "linkAIAssistant": "Assistant IA",
+    "linkStartPage": "Page de démarrage",
+    "linkIntegrations": "Intégrations",
+    "linkIOSApp": "Application iOS",
+    "linkAndroidApp": "Application Android",
+    "linkBrowserExtension": "Extension de navigateur",
+    "linkBlog": "Blog",
+    "linkTemplateLibrary": "Bibliothèque de modèles",
+    "linkSocialMediaInsights": "Insights sur les réseaux sociaux",
+    "linkResourceLibrary": "Bibliothèque de ressources",
+    "linkGlossary": "Glossaire des termes des réseaux sociaux",
+    "linkFreeTools": "Outils marketing gratuits",
+    "linkAIPostGenerator": "Générateur de publications IA pour réseaux sociaux",
+    "linkCompare": "Comparer Buffer",
+    "linkOurCommunity": "Notre communauté",
+    "linkHelpCenter": "Centre d'aide",
+    "linkStatus": "Statut"
+  }
+}

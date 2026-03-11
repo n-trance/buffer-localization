@@ -1,0 +1,82 @@
+{
+  "backLink": "Retour à tous les postes ouverts",
+  "hero": {
+    "title": "Ingénieur Senior - Growth Marketing",
+    "subtitle": "Rejoignez notre équipe Marketing et aidez Buffer à atteindre des millions de créateurs dans le monde et à construire les systèmes qui alimentent nos efforts de croissance"
+  },
+  "details": {
+    "heading": "Détails du poste",
+    "locationLabel": "Lieu",
+    "location": "À distance",
+    "employmentTypeLabel": "Type d'emploi",
+    "employmentType": "Temps plein",
+    "departmentLabel": "Département",
+    "department": "Ingénierie",
+    "compensationLabel": "Rémunération",
+    "compensation": "156 500 $ – 202 300 $ • Offre des actions",
+    "compensationIntro": "Nous nous efforçons que l'approche de Buffer en matière de salaire, d'actions et d'avantages soit :",
+    "bullet1": "Transparente",
+    "bullet2": "Équitable",
+    "bullet3": "Simple",
+    "bullet4": "Généreuse",
+    "readMore": "En savoir plus sur nos philosophies et notre approche de la rémunération."
+  },
+  "aboutBuffer": {
+    "heading": "À propos de Buffer",
+    "body": "Nous créons des logiciels de médias sociaux et de création de marque pour les petites entreprises, les créateurs et les particuliers. Notre mission est de fournir des outils essentiels pour aider les petites entreprises à démarrer et à se développer. Grâce à un service client exceptionnel et à du contenu inspirant, nous aidons nos clients à croire qu'ils peuvent réussir et faire le bien en cours de route. Buffer est une équipe entièrement distribuée, et nous avons toujours visé à faire les choses un peu différemment. Dès le début, nous nous sommes concentrés sur la création d'un lieu de travail unique et épanouissant en repensant de nombreuses pratiques traditionnelles. Nous privilégions également la transparence — vous pouvez tout lire sur nos métriques, nos succès et nos échecs sur notre Tableau de bord de transparence. Nous sommes unis par les valeurs de Buffer, et nous embauchons et travaillons du monde entier. Nous nous efforçons de créer un environnement de travail diversifié et inclusif. Veuillez noter que nous voyageons pour travailler ensemble en personne une ou deux fois par an, et ces événements sont fortement encouragés pour établir des liens plus profonds au sein de notre petite équipe."
+  },
+  "aboutRole": {
+    "heading": "À propos du poste",
+    "body": "Nous recherchons un Ingénieur Frontend Senior pour rejoindre notre équipe Growth Marketing. Il s'agit d'un poste d'ingénierie pratique axé sur la création des expériences web et des systèmes qui aident Buffer à croître. Le travail couvre la création de fonctionnalités et de pages sur buffer.com — outils interactifs, benchmarks, systèmes de parrainage, flux de conversion — ainsi que la mise en œuvre technique : intégrations avec les outils marketing, systèmes d'analyse et de suivi, implémentations SEO, et logique backend qui alimente nos fonctionnalités marketing. Nous avons besoin de quelqu'un à l'aise sur l'ensemble du périmètre frontend : solide avec React et le développement web moderne, mais aussi capable de plonger dans la logique backend, de connecter des API tierces, de déboguer des pipelines de suivi, et de comprendre ce qu'il ne sait pas. Vous collaborerez étroitement avec le Directeur Marketing, l'Ingénieur Design Senior et le Designer Senior. L'équipe valorise le rythme et l'itération — nous livrons rapidement, apprenons de l'utilisation réelle et nous améliorons au fur et à mesure. Nous nous soucions également de la qualité — en prêtant attention aux détails de l'UX et en maintenant les normes tout en gardant l'élan."
+  },
+  "whatYoullDo": {
+    "heading": "Ce que vous ferez",
+    "item1": "Diriger des projets d'ingénierie de croissance, comme la mise en œuvre d'un cadre de localisation pour soutenir les audiences internationales, la construction de la logique du programme de parrainage et des systèmes d'attribution, la reconstruction de notre implémentation de suivi pour améliorer la précision et la fiabilité. Vous gérerez les projets du concept au lancement.",
+    "item2": "Créer des fonctionnalités sur le site marketing de Buffer — livrer des pages de destination, des outils interactifs et des flux de conversion qui aident les gens à découvrir et à essayer Buffer. Créer des benchmarks, des calculateurs et du contenu utilitaire qui éduquent les utilisateurs et stimulent l'engagement.",
+    "item3": "Façonner les capacités de la plateforme marketing en construisant des systèmes et des cadres qui permettent à l'équipe d'aller plus vite. Créer une infrastructure de tests A/B, développer la génération de pages programmatique pour le SEO/AEO, implémenter des modèles de gestion de contenu et construire des composants réutilisables.",
+    "item4": "Piloter l'expérimentation et l'optimisation — mettre en œuvre des tests A/B, optimiser les entonnoirs de conversion et aider l'équipe à apprendre plus vite grâce au code. Équilibrer la rapidité d'exécution avec le maintien de la qualité.",
+    "item5": "Améliorer les fondations en maintenant les intégrations avec notre pile technologique marketing (Segment, GTM, Mixpanel, BigQuery), en mettant à jour les dépendances, en optimisant les performances et en garantissant l'accessibilité. Vous participerez également à notre rotation d'astreinte.",
+    "item6": "Contribuer à façonner la culture d'ingénierie en travaillant en binôme avec d'autres ingénieurs, en examinant le code, en partageant des connaissances sur les systèmes de croissance et les modèles d'ingénierie marketing, et en aidant à améliorer notre approche du travail frontend chez Buffer."
+  },
+  "skills": {
+    "heading": "Compétences et expérience utiles",
+    "item1": "Solides bases frontend — expérience solide avec React, TypeScript et le développement web moderne. Notre site fonctionne sur Next.js, mais nous valorisons l'adaptabilité et la curiosité plutôt que l'expérience spécifique de la pile technologique.",
+    "item2": "À l'aise pour travailler sur l'ensemble de la pile si nécessaire — écrire de la logique backend, construire des routes API, obtenir des données de divers systèmes externes et connecter des intégrations tierces.",
+    "item3": "Expérience avec les équipes marketing ou de croissance : SEO, analyse, tests A/B et optimisation de la conversion. Vous avez probablement construit des systèmes de parrainage, des pages programmatiques ou des entonnoirs de conversion.",
+    "item4": "À l'aise pour naviguer dans l'ambiguïté et penser en systèmes — vous apportez de la clarté et posez de bonnes questions. Vous regardez l'ensemble du système et construisez des choses qui peuvent évoluer de manière holistique.",
+    "item5": "Un intérêt personnel pour la création de contenu — peut-être avez-vous géré une newsletter, développé une audience sur les réseaux sociaux ou partagez régulièrement votre travail en ligne. Vous avez utilisé Buffer et vous vous souciez de l'expérience de planification et de publication de contenu.",
+    "item6": "Vous équilibrez qualité et rapidité — vous livrez rapidement et apprenez de l'utilisation réelle, mais vous vous souciez également de la qualité, des détails UX, de l'accessibilité et des performances.",
+    "item7": "Vous prospérez dans des environnements distants et asynchrones — vous communiquez clairement, soutenez vos coéquipiers et n'attendez pas la permission pour progresser.",
+    "item8": "Maîtrise des outils IA et utilisation pour travailler avec plus de levier. Bonus si vous avez intégré l'IA dans des fonctionnalités marketing destinées aux utilisateurs à grande échelle.",
+    "item9": "Vous avez probablement fait cela pendant au moins 5 ans, mais la profondeur de l'expérience et l'impact comptent plus qu'un nombre spécifique d'années."
+  },
+  "techStack": {
+    "heading": "Notre pile technologique",
+    "item1": "Next.js v15+ avec React et TypeScript pour buffer.com (actuellement en utilisant le routeur Pages, planification de migration vers le routeur App). Middleware Express pour certains routages (planification de migration vers le middleware Next.js).",
+    "item2": "Stylisation avec CSS Modules et Motion pour les animations ; Radix UI et Base UI pour les composants accessibles ; Recharts pour les visualisations de données.",
+    "item3": "Technologie marketing : Segment, Google Tag Manager, Mixpanel et BigQuery pour le suivi et l'analyse.",
+    "item4": "Contenu et données de Ghost CMS (blog), Redash, Notion, Google Sheets et diverses API externes."
+  },
+  "interview": {
+    "heading": "Processus d'entretien",
+    "step1": "Candidature — Lors de la soumission de votre candidature et de votre CV, dites-nous pourquoi vous souhaitez rejoindre Buffer. Nous vous recommandons de postuler à un seul poste ; si nous pensons que vous seriez excellent pour un autre poste, nous réorienterons votre candidature en interne.",
+    "step2": "Entretien pour le poste — Discutez avec le responsable du recrutement et un ingénieur pair pour comprendre ce qu'il faut pour travailler chez Buffer.",
+    "step3": "Devoir d'examen de code — Nous vous enverrons une tâche asynchrone pour examiner une pull request.",
+    "step4": "Entretiens techniques — Entretien avec des ingénieurs axés sur votre expérience technique. Pour les postes seniors, une conversation supplémentaire sur le leadership et la manière dont vous travaillez avec les équipes.",
+    "step5": "Rencontre avec le PDG — Obtenez une compréhension plus approfondie de la stratégie, des valeurs et des processus de travail de Buffer.",
+    "step6": "Période de collaboration — Travaillez avec nous sur un projet réel pendant 2 jours (entièrement rémunéré). Voyez ce que ça fait de travailler en équipe.",
+    "step7": "Offre — Nous concluons avec une offre et discutons des derniers détails."
+  },
+  "perksHeading": "Avantages et bénéfices",
+  "perks": {
+    "item1": "Salaire compétitif",
+    "item2": "Travail à distance",
+    "item3": "Semaines de travail de 4 jours",
+    "item4": "Assurance maladie",
+    "item5": "Aménagement du bureau à domicile",
+    "item6": "Congés flexibles",
+    "item7": "Plan d'épargne",
+    "item8": "Partage des bénéfices",
+    "item9": "Congé parental"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "nav": { "cta": "See open roles" },
+  "hero": {
+    "title": "Join our journey",
+    "subtitle": "Working with us is more than just a job. Want to come along for the ride?",
+    "cta": "See our open roles"
+  },
+  "about": {
+    "heading": "What we do",
+    "body": "We're a small team on a mission to build great products – and along the way, we're championing a more human way to work. We started with a simple idea and have grown into a suite of tools serving thousands of customers."
+  },
+  "stats": {
+    "heading": "Where will I work?",
+    "body": "Buffer is a fully remote team, spread across the whole planet. We have teammates in 22 countries, 51 cities, and 11 timezones (and counting!). As a member of our team, you will be invited to work wherever you're happiest and most productive.",
+    "countriesLabel": "22 Countries",
+    "citiesLabel": "51 Cities",
+    "timezonesLabel": "11 Timezones",
+    "link": "More about how we work remotely"
+  },
+  "values": {
+    "heading": "United by our values",
+    "card1Title": "Default to transparency",
+    "card1Desc": "We choose transparency as a lifestyle of authenticity and honesty, and as an effective way to work remotely and build trust.",
+    "card2Title": "Improve consistently",
+    "card2Desc": "We strive to be better every day – not in competition with anyone but our yesterday selves.",
+    "card3Title": "Be a no-ego doer",
+    "card3Desc": "We remove ourselves from our work to lead to a better, more productive experience for everyone. We're all rowing this boat together.",
+    "card4Title": "Show gratitude",
+    "card4Desc": "We regularly show gratitude for each other, for the technology that makes our work possible, and for the blessings in our lives.",
+    "card5Title": "Choose optimism",
+    "card5Desc": "We approach the future with positivity while embracing hard conversations in service of our long-term health.",
+    "card6Title": "Reflect to unblock",
+    "card6Desc": "We carve out time for reflection. We believe personal growth stems from vulnerability and introspection."
+  },
+  "team": {
+    "heading": "What is the team like?",
+    "body": "We're an equal opportunity employer and we're united by our values. We celebrate unique differences and hire talented people from a wide variety of backgrounds. We're committed to a work environment of respect and kindness."
+  },
+  "perks": {
+    "heading": "Perks and benefits",
+    "card1Title": "Competitive salary",
+    "card1Desc": "Compensation that adjusts to your cost of living and experience.",
+    "card2Title": "Work remotely",
+    "card2Desc": "Live and work wherever you're happiest and most productive.",
+    "card3Title": "4-Day workweeks",
+    "card3Desc": "Four workdays with a flexible fifth day for overflow or personal time.",
+    "card4Title": "Health insurance",
+    "card4Desc": "Health coverage for all team members.",
+    "card5Title": "Home office setup",
+    "card5Desc": "Budget to set up your home office.",
+    "card6Title": "Flexible time off",
+    "card6Desc": "Take the time you need to rest and recharge."
+  },
+  "roles": {
+    "heading": "Open roles",
+    "engineering": "Engineering",
+    "roleTitle": "Senior Engineer – Growth",
+    "apply": "Apply",
+    "emailHeading": "Be the first to know about new roles.",
+    "emailPlaceholder": "Enter your email",
+    "emailButton": "Subscribe"
+  },
+  "footer": {
+    "featuresTitle": "Features",
+    "toolsTitle": "Tools",
+    "resourcesTitle": "Resources",
+    "supportTitle": "Support",
+    "linkCreate": "Create",
+    "linkPublish": "Publish",
+    "linkCommunity": "Community",
+    "linkAnalyze": "Analyze",
+    "linkCollaborate": "Collaborate",
+    "linkAIAssistant": "AI Assistant",
+    "linkStartPage": "Start Page",
+    "linkIntegrations": "Integrations",
+    "linkIOSApp": "iOS App",
+    "linkAndroidApp": "Android App",
+    "linkBrowserExtension": "Browser Extension",
+    "linkBlog": "Blog",
+    "linkTemplateLibrary": "Template Library",
+    "linkSocialMediaInsights": "Social Media Insights",
+    "linkResourceLibrary": "Resource Library",
+    "linkGlossary": "Social Media Terms Glossary",
+    "linkFreeTools": "Free Marketing Tools",
+    "linkAIPostGenerator": "AI Social Media Post Generator",
+    "linkCompare": "Compare Buffer",
+    "linkOurCommunity": "Our Community",
+    "linkHelpCenter": "Help Center",
+    "linkStatus": "Status"
+  }
+}

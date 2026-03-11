@@ -1,0 +1,20 @@
+{
+  "intro": {
+    "title": "للبدء، قم بتعديل ملف page.tsx.",
+    "description": "تبحث عن نقطة انطلاق أو مزيد من التعليمات؟ توجه إلى {{templates}} أو مركز {{learning}}.",
+    "descriptionBefore": "تبحث عن نقطة انطلاق أو مزيد من التعليمات؟ توجه إلى ",
+    "descriptionMiddle": " أو مركز ",
+    "descriptionAfter": ".",
+    "templates": "القوالب",
+    "learning": "التعلم",
+    "center": "المركز"
+  },
+  "ctas": {
+    "deploy": "انشر الآن",
+    "documentation": "التوثيق"
+  },
+  "images": {
+    "nextLogo": "شعار Next.js",
+    "vercelLogo": "شعار Vercel"
+  }
+}

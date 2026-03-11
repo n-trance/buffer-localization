@@ -1,0 +1,10 @@
+{
+  "language": "Sprache",
+  "languages": {
+    "en": "Englisch",
+    "de": "Deutsch",
+    "fr": "Französisch",
+    "ja": "Japanisch",
+    "ar": "Arabisch"
+  }
+}

@@ -7,7 +7,8 @@
   },
   "about": {
     "heading": "What we do",
-    "body": "We're a small team on a mission to build great products – and along the way, we're championing a more human way to work. We started with a simple idea and have grown into a suite of tools serving thousands of customers."
+    "body": "We're a small team on a mission to build great products – and along the way, we're championing a more human way to work. We started with a simple idea and have grown into a suite of tools serving thousands of customers.",
+    "dateLabel": "Last updated: {{date}}"
   },
   "stats": {
     "heading": "Where will I work?",

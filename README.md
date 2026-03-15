@@ -1,33 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Buffer Localization
 
-## Getting Started
+A Next.js app that demonstrates a full localization (i18n) setup: multiple languages on the web, a shared translations API for mobile clients, and a script to generate locale files from English via an LLM.
 
-First, run the development server:
+## What this project does
+
+- **Web app** – React/Next.js UI with a language switcher. Content is translated into **5 languages** (English, Deutsch, Français, 日本語, العربية), with RTL layout for Arabic.
+- **Translations API** – HTTP endpoint that returns translation JSON by language and platform (`web`, `ios`, `android`) so mobile apps can load strings at runtime or bundle the same JSON.
+- **Translate script** – CLI that reads English locale JSON and produces de, fr, ja, ar using the Open Router API, keeping keys and placeholders intact.
+
+Locale files live under `public/locales/{platform}/{lng}/` as namespaced JSON (e.g. `common`, `home`, `journey`). The web app uses i18next; mobile can use the same structure or fetch from the API.
+
+## Quick start
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+pnpm install
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open [http://localhost:3000](http://localhost:3000). Use the language dropdown in the nav to switch languages. First-time visitors see a short onboarding that highlights the translation feature.
 
 ## Documentation
 
-- **[Getting started](docs/getting-started.md)** – Start the project, select languages, and how the app handles translated text, dates, currency, and RTL.
-- **[Translation (i18n)](docs/i18n.md)** – How the app handles translations with i18next: config, namespaces, `useT()`, formatters, and adding languages.
-- **[i18n naming rules](docs/i18n-naming-rules.md)** – Key convention (`screen.section.key`), character/casing rules, and examples so JSON works on web, iOS, and Android.
-- **[Translate script (en → other languages)](docs/translate-locales.md)** – Script that translates English locale folders to de, fr, ja, ar via the Open Router API.
-- **[iOS and Android: using JSON for i18n](docs/mobile-i18n.md)** – How mobile apps can use the same locale JSON (bundle or fetch) and key structure.
-- **[Translations API](docs/translations-api.md)** – The endpoint that returns translation JSON by language and platform (query params, response shape, caching).
+| Doc | Description |
+|-----|-------------|
+| [Getting started](docs/getting-started.md) | Run the app, change language, and how text, dates, currency, and RTL work. |
+| [Translation (i18n)](docs/i18n.md) | i18n config, namespaces, `useT()`, formatters, and adding languages. |
+| [i18n naming rules](docs/i18n-naming-rules.md) | Key convention (`screen.section.key`), rules, and examples for web and mobile. |
+| [Translate script](docs/translate-locales.md) | Translate English locale files to de, fr, ja, ar via Open Router. |
+| [Mobile i18n](docs/mobile-i18n.md) | Using the same locale JSON on iOS and Android (bundle or fetch). |
+| [Translations API](docs/translations-api.md) | API reference: endpoint, query params, response shape, caching. |
+
+## Scripts
+
+| Command | Description |
+|---------|-------------|
+| `pnpm dev` | Start the Next.js dev server. |
+| `pnpm build` | Production build. |
+| `pnpm start` | Run the production server. |
+| `pnpm translate` | Run the locale translation script (see [Translate script](docs/translate-locales.md); requires `.env` with Open Router key). |
 
 ## Learn more
 

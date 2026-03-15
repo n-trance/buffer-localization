@@ -8,7 +8,8 @@
   "about": {
     "heading": "Was wir tun",
     "body": "Wir sind ein kleines Team mit der Mission, großartige Produkte zu bauen – und dabei setzen wir uns für eine menschlichere Art zu arbeiten ein.",
-    "link": "Mehr erfahren"
+    "link": "Mehr erfahren",
+    "dateLabel": "Zuletzt aktualisiert: {{date}}"
   },
   "stats": {
     "heading": "Wo werde ich arbeiten?",

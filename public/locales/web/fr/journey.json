@@ -9,7 +9,8 @@
   },
   "about": {
     "heading": "Ce que nous faisons",
-    "body": "Nous sommes une petite équipe avec pour mission de créer d'excellents produits – et ce faisant, nous promouvons une manière plus humaine de travailler. Nous avons commencé avec une idée simple et sommes devenus une suite d'outils au service de milliers de clients."
+    "body": "Nous sommes une petite équipe avec pour mission de créer d'excellents produits – et ce faisant, nous promouvons une manière plus humaine de travailler. Nous avons commencé avec une idée simple et sommes devenus une suite d'outils au service de milliers de clients.",
+    "dateLabel": "Dernière mise à jour : {{date}}"
   },
   "stats": {
     "heading": "Où travaillerai-je ?",

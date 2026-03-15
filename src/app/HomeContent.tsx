@@ -2,12 +2,18 @@
 
 import styles from "@/app/page.module.css";
 import { useT } from "@/i18n";
+import { useTranslation } from "react-i18next";
 
 const VALUE_ICONS = ["📖", "⬆️", "⛵", "💛", "🥛", "🪞"];
 const PERK_ICONS = ["💰", "🏝", "🗓", "💪", "🏠", "⛺️"];
 
+function formatDate(locale: string, date: Date): string {
+  return new Intl.DateTimeFormat(locale, { dateStyle: "long" }).format(date);
+}
+
 export function HomeContent() {
   const t = useT();
+  const { i18n } = useTranslation();
 
   return (
     <>
@@ -41,6 +47,11 @@ export function HomeContent() {
             {t("journey.about.heading")}
           </h2>
           <p className={styles.sectionBody}>{t("journey.about.body")}</p>
+          <p className={styles.sectionBody} aria-live="polite">
+            {t("journey.about.dateLabel", {
+              date: formatDate(i18n.language, new Date()),
+            })}
+          </p>
         </div>
       </section>
 

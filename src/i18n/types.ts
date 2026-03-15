@@ -41,7 +41,7 @@ export const TranslationKeys = {
   journey: {
     nav: { cta: null },
     hero: { title: null, subtitle: null, cta: null },
-    about: { heading: null, body: null, link: null },
+    about: { heading: null, body: null, link: null, dateLabel: null },
     stats: {
       heading: null,
       body: null,
